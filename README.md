@@ -3,15 +3,9 @@
 # 🔗 Gain Chain AI (GAIN CHAIN AI)
 
 <div align="center">
-  <img src="https://via.placeholder.com/250x250?text=GAIN CHAIN AI+Logo" alt="GAIN CHAIN AI Logo" width="250" height="250">
+  <img src="[https://via.placeholder.com/250x250?text=GAIN CHAIN AI+Logo" alt="GAIN CHAIN AI Logo](https://avatars.githubusercontent.com/u/205381266?s=60&v=4)" width="250" height="250">
   <h3>Voice-Activated AI for Blockchain Development</h3>
   <p>Transforming natural language into functional blockchain applications</p>
-  
-  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-  [![GitHub Stars](https://img.shields.io/github/stars/gain-chain/GAIN CHAIN AI.svg)](https://github.com/gain-chain/GAIN CHAIN AI/stargazers)
-  [![GitHub Issues](https://img.shields.io/github/issues/gain-chain/GAIN CHAIN AI.svg)](https://github.com/gain-chain/GAIN CHAIN AI/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/gain-chain/GAIN CHAIN AI.svg)](https://github.com/gain-chain/GAIN CHAIN AI/pulls)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/GainChainAI?style=social)](https://twitter.com/GainChainAI)
 </div>
 
 ## 📋 Contents
@@ -68,7 +62,7 @@ GAIN CHAIN AI is currently in **early development** with focus on MVP features. 
 - 📅 Private beta planned for Q3 2024
 - 📅 Public beta launch scheduled for Q4 2024
 
-Join our [waitlist](https://gchain.ai) to get early access and updates!
+Join our [waitlist](https://gainchainai.pro) to get early access and updates!
 
 ## 💻 Technology Stack
 
@@ -147,46 +141,6 @@ graph TD
 
 Our unique "Mother-Child" AI architecture uses a central orchestration model to route specialized development tasks to purpose-built AI models for each blockchain protocol, ensuring optimal code generation for every use case.
 
-## 🚀 Getting Started
-
-> ⚠️ **Note**: GAIN CHAIN AI is in early development. These instructions are for contributors and will be updated as the project progresses.
-
-### Prerequisites
-- Node.js (v16+)
-- MongoDB
-- PostgreSQL
-- Google API credentials (for OAuth)
-- GitHub API credentials (for OAuth)
-
-### Installation
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/gain-chain/GAIN CHAIN AI.git
-   cd GAIN CHAIN AI
-   ```
-
-2. Install dependencies
-   ```bash
-   npm install
-   ```
-
-3. Set up environment variables
-   ```bash
-   cp .env.example .env
-   # Edit .env with your configuration
-   ```
-
-4. Run the development server
-   ```bash
-   npm run dev
-   ```
-
-5. Open [http://localhost:3000](http://localhost:3000) in your browser
-
-## 🔍 Usage Examples
-
-> 📝 **Coming Soon**: As we develop the platform, we'll add detailed examples of how to use GAIN CHAIN AI for various blockchain development scenarios.
 
 ## 📈 Roadmap
 
@@ -238,10 +192,10 @@ GAIN CHAIN AI is released under the [MIT License](LICENSE).
 
 ## 📱 Contact & Community
 
-- **Website**: [https://gchain.ai](https://gchain.ai)
+- **Website**: [https://gchain.ai](https://gainchainai.pro)
 - **Twitter**: [@GainChainAI](https://twitter.com/GainChainAI)
 - **Discord**: [Join our community](https://discord.gg/gchain)
-- **Email**: hello@gchain.ai
+- **Email**: gainchainai.dev@gmail.com
 
 ## ❓ FAQ
 
