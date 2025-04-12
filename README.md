@@ -1,16 +1,16 @@
 # GAIN-CHAIN-AI---ABOUT-US
 
-# 🔗 Gain Chain AI (G-CHAIN)
+# 🔗 Gain Chain AI (GAIN CHAIN AI)
 
 <div align="center">
-  <img src="https://via.placeholder.com/250x250?text=G-CHAIN+Logo" alt="G-CHAIN Logo" width="250" height="250">
+  <img src="https://via.placeholder.com/250x250?text=GAIN CHAIN AI+Logo" alt="GAIN CHAIN AI Logo" width="250" height="250">
   <h3>Voice-Activated AI for Blockchain Development</h3>
   <p>Transforming natural language into functional blockchain applications</p>
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-  [![GitHub Stars](https://img.shields.io/github/stars/gain-chain/g-chain.svg)](https://github.com/gain-chain/g-chain/stargazers)
-  [![GitHub Issues](https://img.shields.io/github/issues/gain-chain/g-chain.svg)](https://github.com/gain-chain/g-chain/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/gain-chain/g-chain.svg)](https://github.com/gain-chain/g-chain/pulls)
+  [![GitHub Stars](https://img.shields.io/github/stars/gain-chain/GAIN CHAIN AI.svg)](https://github.com/gain-chain/GAIN CHAIN AI/stargazers)
+  [![GitHub Issues](https://img.shields.io/github/issues/gain-chain/GAIN CHAIN AI.svg)](https://github.com/gain-chain/GAIN CHAIN AI/issues)
+  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/gain-chain/GAIN CHAIN AI.svg)](https://github.com/gain-chain/GAIN CHAIN AI/pulls)
   [![Twitter Follow](https://img.shields.io/twitter/follow/GainChainAI?style=social)](https://twitter.com/GainChainAI)
 </div>
 
@@ -31,7 +31,7 @@
 
 ## 🌟 Overview
 
-**G-CHAIN (Gain Chain AI)** is a revolutionary platform that democratizes blockchain development through an intuitive, AI-powered interface. By enabling users to create decentralized applications (dApps) and smart contracts using plain English prompts or voice commands, G-CHAIN eliminates the technical barriers that have traditionally limited blockchain adoption.
+**GAIN CHAIN AI (Gain Chain AI)** is a revolutionary platform that democratizes blockchain development through an intuitive, AI-powered interface. By enabling users to create decentralized applications (dApps) and smart contracts using plain English prompts or voice commands, GAIN CHAIN AI eliminates the technical barriers that have traditionally limited blockchain adoption.
 
 Our platform supports multiple blockchain protocols and features a user-friendly interface, making it accessible to both experienced developers and complete beginners. Transform your blockchain ideas into reality without writing a single line of code.
 
@@ -40,7 +40,7 @@ Our platform supports multiple blockchain protocols and features a user-friendly
 ## ✨ Key Features
 
 ### 💬 Natural Language to Code Generation
-Convert plain English descriptions into functional blockchain code. Simply describe what you want to build, and G-CHAIN generates the necessary smart contracts and dApp code.
+Convert plain English descriptions into functional blockchain code. Simply describe what you want to build, and GAIN CHAIN AI generates the necessary smart contracts and dApp code.
 
 ### 🗣️ Voice-Activated Development
 Build while you speak with our advanced dual-tier speech processing system. Experience a hands-free coding environment with natural conversation flow.
@@ -59,7 +59,7 @@ Generate secure smart contracts with automated vulnerability scanning and adhere
 
 ## 🚦 Project Status
 
-G-CHAIN is currently in **early development** with focus on MVP features. We're working toward our first public beta and actively seeking contributors.
+GAIN CHAIN AI is currently in **early development** with focus on MVP features. We're working toward our first public beta and actively seeking contributors.
 
 - ✅ Concept validation completed
 - ✅ Architecture design finalized
@@ -101,7 +101,7 @@ Join our [waitlist](https://gchain.ai) to get early access and updates!
 
 ## 🏗️ Architecture
 
-G-CHAIN features a sophisticated architecture designed for flexibility, security, and performance:
+GAIN CHAIN AI features a sophisticated architecture designed for flexibility, security, and performance:
 
 ```mermaid
 graph TD
@@ -149,7 +149,7 @@ Our unique "Mother-Child" AI architecture uses a central orchestration model to 
 
 ## 🚀 Getting Started
 
-> ⚠️ **Note**: G-CHAIN is in early development. These instructions are for contributors and will be updated as the project progresses.
+> ⚠️ **Note**: GAIN CHAIN AI is in early development. These instructions are for contributors and will be updated as the project progresses.
 
 ### Prerequisites
 - Node.js (v16+)
@@ -162,8 +162,8 @@ Our unique "Mother-Child" AI architecture uses a central orchestration model to 
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/gain-chain/g-chain.git
-   cd g-chain
+   git clone https://github.com/gain-chain/GAIN CHAIN AI.git
+   cd GAIN CHAIN AI
    ```
 
 2. Install dependencies
@@ -186,11 +186,11 @@ Our unique "Mother-Child" AI architecture uses a central orchestration model to 
 
 ## 🔍 Usage Examples
 
-> 📝 **Coming Soon**: As we develop the platform, we'll add detailed examples of how to use G-CHAIN for various blockchain development scenarios.
+> 📝 **Coming Soon**: As we develop the platform, we'll add detailed examples of how to use GAIN CHAIN AI for various blockchain development scenarios.
 
 ## 📈 Roadmap
 
-G-CHAIN development is planned in several phases:
+GAIN CHAIN AI development is planned in several phases:
 
 ### Phase 1: Foundation (Completed)
 - Project setup & planning
@@ -234,7 +234,7 @@ We welcome contributions from the community! Please read our [Contributing Guide
 
 ## 📄 License
 
-G-CHAIN is released under the [MIT License](LICENSE).
+GAIN CHAIN AI is released under the [MIT License](LICENSE).
 
 ## 📱 Contact & Community
 
@@ -245,26 +245,26 @@ G-CHAIN is released under the [MIT License](LICENSE).
 
 ## ❓ FAQ
 
-### What is G-CHAIN?
-G-CHAIN is a revolutionary platform that enables anyone to create blockchain applications using natural language prompts or voice commands, without requiring coding knowledge.
+### What is GAIN CHAIN AI?
+GAIN CHAIN AI is a revolutionary platform that enables anyone to create blockchain applications using natural language prompts or voice commands, without requiring coding knowledge.
 
 ### How does voice-activated development work?
-G-CHAIN employs a dual-tier speech processing system that converts your voice commands into structured instructions. These instructions are then processed by our specialized AI models to generate functional blockchain code.
+GAIN CHAIN AI employs a dual-tier speech processing system that converts your voice commands into structured instructions. These instructions are then processed by our specialized AI models to generate functional blockchain code.
 
 ### Which blockchains are supported?
 The initial MVP will support Ethereum and Solana, with plans to expand to Optimism, Base Chain, and other protocols in future releases.
 
-### Do I need technical knowledge to use G-CHAIN?
-No! G-CHAIN is designed to be accessible to both technical and non-technical users. You only need to describe what you want to build in plain English.
+### Do I need technical knowledge to use GAIN CHAIN AI?
+No! GAIN CHAIN AI is designed to be accessible to both technical and non-technical users. You only need to describe what you want to build in plain English.
 
 ### How secure are the generated smart contracts?
-G-CHAIN implements multiple layers of security checks, including automated vulnerability scanning, static analysis, and adherence to established security patterns for each blockchain.
+GAIN CHAIN AI implements multiple layers of security checks, including automated vulnerability scanning, static analysis, and adherence to established security patterns for each blockchain.
 
-### When will G-CHAIN be available?
+### When will GAIN CHAIN AI be available?
 We're currently developing our MVP with plans for a private beta in Q3 2024 and public beta in Q4 2024. Join our waitlist to get early access!
 
 ---
 
 <div align="center">
-  <p>Built with ❤️ by the G-CHAIN team</p>
-</div>
+  <p>Built with ❤️ by the GAIN CHAIN AI team</p>
+</div> 
