@@ -3,7 +3,7 @@
 # 🔗 Gain Chain AI (GAIN CHAIN AI)
 
 <div align="center">
-  <img src="https://via.placeholder.com/250x250?text=GAIN CHAIN AI+Logo" width="250" height="250">
+  <img src="[https://via.placeholder.com/250x250?text=GAIN CHAIN AI+Logo](https://lh3.googleusercontent.com/pw/AP1GczPfV-Ct48LhGYt66KNrj2M83nBvOaMALqenzMHIq_PEwDOo5dwVhN2P0af6lOAvICHTgKiAzivZ3eG6b-9j6mG04BoCitWM0_WblJT03uGwpTb6eKXHwMzaWYTzJxmc-7DNuqVa__jrWYrmBctyofE=w750-h729-s-no-gm?authuser=0)" width="250" height="250">
   <h3>Voice-Activated AI for Blockchain Development</h3>
   <p>Transforming natural language into functional blockchain applications</p>
 </div>
