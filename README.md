@@ -59,10 +59,10 @@ GAIN CHAIN AI is currently in **early development** with focus on MVP features. 
 - ✅ Architecture design finalized
 - 🔄 Core AI model development in progress
 - 🔄 MVP development underway
-- 📅 Private beta planned for Q3 2024
-- 📅 Public beta launch scheduled for Q4 2024
+- 📅 Private beta planned for Q2 2025
+- 📅 Public beta launch scheduled for Q3 2025
 
-Join our [waitlist](https://gainchainai.pro) to get early access and updates!
+Join our [waitlist](https://gainchain.pro) to get early access and updates!
 
 ## 💻 Technology Stack
 
@@ -192,7 +192,7 @@ GAIN CHAIN AI is released under the [MIT License](LICENSE).
 
 ## 📱 Contact & Community
 
-- **Website**: [https://gchain.ai](https://gainchainai.pro)
+- **Website**: [https://gainchain.pro](https://gainchain.pro)
 - **Twitter**: [@GainChainAI](https://twitter.com/GainChainAI)
 - **Discord**: [Join our community](https://discord.gg/gchain)
 - **Email**: gainchainai.dev@gmail.com
